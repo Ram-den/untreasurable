@@ -1,0 +1,25 @@
+{
+    "name": "Patricia Morgan",
+    "age": 50,
+    "address": {
+        "street": "Terrell Hills",
+        "city": "Mariastad",
+        "state": "Arkansas",
+        "zip": "41208"
+    },
+    "contact": {
+        "phone": "711.644.3822x0572",
+        "servicePhone": "800017543"
+    },
+    "birthday": "1975-13-04",
+    "ip": "90.242.131.190",
+    "foo": "bar",
+    "profile": {
+        "about": "House of we short rest challenge group. Call no name.\nFamily bar national allow wind physical hotel. Model story child well.\nFast threat happen. Arrive special culture improve.",
+        "bio": "With material style where. Fire usually many green difficult clearly budget. Picture wall section price paper oil. Bag hot quality draw face image resource."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}
