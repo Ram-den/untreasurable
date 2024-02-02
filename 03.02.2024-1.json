@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Hall",
+    "age": 77,
+    "address": {
+        "street": "Liu Neck",
+        "city": "Kathleenhaven",
+        "state": "North Carolina",
+        "zip": "34966"
+    },
+    "contact": {
+        "phone": "203-722-3553",
+        "servicePhone": "800423609"
+    },
+    "birthday": "1948-23-12",
+    "ip": "126.204.23.155",
+    "foo": "bar",
+    "profile": {
+        "about": "Suggest consider mean two will scientist factor. Focus agreement floor matter answer drug safe. Production second result future model glass. May environment require million situation brother.",
+        "bio": "Hot hair do point either. Action on dinner between word.\nSpecial draw and specific suffer. Senior play bad cut will unit."
+    },
+    "currency": [
+        "PKR",
+        "Pakistani rupee"
+    ]
+}
