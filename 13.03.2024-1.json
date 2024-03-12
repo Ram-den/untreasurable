@@ -1,0 +1,25 @@
+{
+    "name": "Kiara Pittman",
+    "age": 67,
+    "address": {
+        "street": "Jamie Stream",
+        "city": "Perryberg",
+        "state": "North Carolina",
+        "zip": "51177"
+    },
+    "contact": {
+        "phone": "359-265-4222",
+        "servicePhone": "800572695"
+    },
+    "birthday": "1958-23-04",
+    "ip": "76.14.29.3",
+    "foo": "bar",
+    "profile": {
+        "about": "A north teacher action after. Baby memory activity skill his involve.\nNotice media himself more specific hour individual. Natural that discover.",
+        "bio": "How rule see show option environmental let suddenly. Check admit especially often.\nPerform deep onto family. Democratic let probably. Everybody oil class above from nearly decision choice."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}
