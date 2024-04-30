@@ -1,0 +1,25 @@
+{
+    "name": "Kathryn Hamilton",
+    "age": 75,
+    "address": {
+        "street": "Austin Forge",
+        "city": "East Davidton",
+        "state": "Pennsylvania",
+        "zip": "83613"
+    },
+    "contact": {
+        "phone": "923-674-1152x7757",
+        "servicePhone": "800340608"
+    },
+    "birthday": "1950-14-06",
+    "ip": "99.32.50.122",
+    "foo": "bar",
+    "profile": {
+        "about": "East worry fire begin here. Yet particular him who rest religious.\nOption arrive develop wait suddenly.\nIt fire explain hospital. Agree because finish mind eye road. Require field expect form story.",
+        "bio": "More center wear apply government impact impact small. Public beautiful expect choose law per young.\nHelp attorney laugh give. Lose green impact word record always. Wish no system movement soon."
+    },
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}
