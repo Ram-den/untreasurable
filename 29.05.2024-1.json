@@ -1,0 +1,25 @@
+{
+    "name": "Kelly Roman",
+    "age": 35,
+    "address": {
+        "street": "Shaw Mission",
+        "city": "Georgefurt",
+        "state": "Maine",
+        "zip": "97237"
+    },
+    "contact": {
+        "phone": "(551)367-2967",
+        "servicePhone": "800759309"
+    },
+    "birthday": "1990-15-01",
+    "ip": "193.199.244.177",
+    "foo": "bar",
+    "profile": {
+        "about": "Even on end seven identify someone defense. Animal share near blue own tree. Bar two side direction modern yard less discuss.",
+        "bio": "Wind blue surface response might care activity religious. Might buy offer quickly ten administration. Scene go choose section."
+    },
+    "currency": [
+        "CUC",
+        "Cuban convertible peso"
+    ]
+}
