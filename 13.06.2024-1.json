@@ -1,0 +1,25 @@
+{
+    "name": "Stacy Johnson",
+    "age": 42,
+    "address": {
+        "street": "Natasha Green",
+        "city": "Smithhaven",
+        "state": "Arizona",
+        "zip": "63366"
+    },
+    "contact": {
+        "phone": "001-421-467-4463x91711",
+        "servicePhone": "800455261"
+    },
+    "birthday": "1983-05-06",
+    "ip": "218.113.255.197",
+    "foo": "bar",
+    "profile": {
+        "about": "Treat direction cup least. Game officer society record whether.\nPull land themselves medical wall arrive. Church say write do guy hear. Here your deep religious stage.",
+        "bio": "Ready mind news for action sit camera. Class think unit trouble have ahead increase.\nWorld particularly fly safe. Choice would concern listen state particular herself."
+    },
+    "currency": [
+        "GEL",
+        "Georgian lari"
+    ]
+}
