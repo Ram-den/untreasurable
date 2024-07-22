@@ -1,0 +1,25 @@
+{
+    "name": "Christina Rivera",
+    "age": 22,
+    "address": {
+        "street": "Robert Canyon",
+        "city": "North Theresa",
+        "state": "Tennessee",
+        "zip": "21345"
+    },
+    "contact": {
+        "phone": "(443)827-9331x99201",
+        "servicePhone": "800941402"
+    },
+    "birthday": "2003-10-10",
+    "ip": "149.11.173.144",
+    "foo": "bar",
+    "profile": {
+        "about": "Cut everyone control partner upon stage safe. Amount political our north pay explain real. Explain foot kitchen may charge security.",
+        "bio": "Reduce five American democratic investment nearly rich. Never office live. Build idea guy suggest people."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}
