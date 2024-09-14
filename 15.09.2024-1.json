@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Colon",
+    "age": 21,
+    "address": {
+        "street": "Bill Glen",
+        "city": "New Rodney",
+        "state": "Iowa",
+        "zip": "86537"
+    },
+    "contact": {
+        "phone": "+1-464-999-6987x958",
+        "servicePhone": "800978532"
+    },
+    "birthday": "2004-25-05",
+    "ip": "124.205.85.160",
+    "foo": "bar",
+    "profile": {
+        "about": "Anyone scene despite material environment western stock throw. College standard to herself not resource.",
+        "bio": "Include miss whole. Defense whatever indeed forget eat.\nArt serve hour employee. Cut could fill read.\nInterview sort central agency. A skill serve big easy stop."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}
