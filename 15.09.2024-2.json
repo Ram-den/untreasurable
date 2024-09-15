@@ -1,0 +1,25 @@
+{
+    "name": "Kyle Reed",
+    "age": 82,
+    "address": {
+        "street": "Amy Cliff",
+        "city": "Amandaburgh",
+        "state": "Mississippi",
+        "zip": "98165"
+    },
+    "contact": {
+        "phone": "(743)964-4785x9929",
+        "servicePhone": "800129541"
+    },
+    "birthday": "1943-18-11",
+    "ip": "185.75.214.211",
+    "foo": "bar",
+    "profile": {
+        "about": "Create little those less blue mother. Stage occur prepare situation couple good large.\nBut none successful. Old budget strong camera lot back. Growth tough newspaper nation wear.",
+        "bio": "Feeling foot as green ready car. Sense east current ever second.\nOur time outside. Decide here western even. Next professor century majority investment day of crime."
+    },
+    "currency": [
+        "BMD",
+        "Bermudian dollar"
+    ]
+}
