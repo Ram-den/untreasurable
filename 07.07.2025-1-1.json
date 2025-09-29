@@ -1,0 +1,25 @@
+{
+    "name": "Kenneth Mathews",
+    "age": 27,
+    "address": {
+        "street": "Alexander Loop",
+        "city": "Lake Laurenmouth",
+        "state": "Louisiana",
+        "zip": "40036"
+    },
+    "contact": {
+        "phone": "(769)368-6544x24027",
+        "servicePhone": "800803232"
+    },
+    "birthday": "1998-24-11",
+    "ip": "198.1.208.208",
+    "foo": "bar",
+    "profile": {
+        "about": "Determine hit interesting reality particularly two. Find opportunity act five small.",
+        "bio": "Feel room contain indicate teach world hope. Hour father name sport everybody. Across one thousand ever everybody result.\nHis now last. Whatever something stand true fast. Feeling card blue."
+    },
+    "currency": [
+        "XOF",
+        "West African CFA franc"
+    ]
+}
