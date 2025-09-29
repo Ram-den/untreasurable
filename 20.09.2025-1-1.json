@@ -1,0 +1,25 @@
+{
+    "name": "Dylan Gordon",
+    "age": 50,
+    "address": {
+        "street": "Kelly Land",
+        "city": "West Theodore",
+        "state": "Kansas",
+        "zip": "03568"
+    },
+    "contact": {
+        "phone": "692.452.5154",
+        "servicePhone": "800726303"
+    },
+    "birthday": "1975-14-11",
+    "ip": "103.115.178.70",
+    "foo": "bar",
+    "profile": {
+        "about": "Science wind each information situation certainly modern. Enter exist tonight believe question.\nSister these beyond other city building green region. Strategy peace energy behavior to.",
+        "bio": "However class hundred expect company. Yourself today anything standard late short.\nHome already produce star parent hand. Reveal imagine important chance clearly first million."
+    },
+    "currency": [
+        "UAH",
+        "Ukrainian hryvnia"
+    ]
+}

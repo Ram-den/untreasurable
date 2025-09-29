@@ -1,0 +1,25 @@
+{
+    "name": "Kim Chen",
+    "age": 84,
+    "address": {
+        "street": "Wilson Underpass",
+        "city": "Ritterbury",
+        "state": "Texas",
+        "zip": "23598"
+    },
+    "contact": {
+        "phone": "395-896-8266",
+        "servicePhone": "800083388"
+    },
+    "birthday": "1941-13-12",
+    "ip": "133.186.4.225",
+    "foo": "bar",
+    "profile": {
+        "about": "Sing behind bill interest. Each party close rather work staff half anyone.\nStory story black bar successful they hope. Choice this thank among.\nSing just they. Important culture medical.",
+        "bio": "Send use look meeting indeed coach per. Three major rest staff. Explain condition evidence benefit relate cover country."
+    },
+    "currency": [
+        "KGS",
+        "Kyrgyzstani som"
+    ]
+}
