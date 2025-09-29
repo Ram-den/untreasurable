@@ -1,0 +1,25 @@
+{
+    "name": "Sharon Barrera",
+    "age": 15,
+    "address": {
+        "street": "Reid Dam",
+        "city": "North Saraland",
+        "state": "Oregon",
+        "zip": "61321"
+    },
+    "contact": {
+        "phone": "780-689-3390x87877",
+        "servicePhone": "800391264"
+    },
+    "birthday": "2010-22-06",
+    "ip": "208.231.173.72",
+    "foo": "bar",
+    "profile": {
+        "about": "Five another sometimes heart. Series last expert speech. Include method assume magazine life.\nExpect resource ago sister last message. Full chair security. Tax father quickly financial.",
+        "bio": "Plan its with team. Feel visit talk attention now activity strategy. Of unit much no teacher office your.\nHave shake top candidate bed career home however. Election whom exist list reach community."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}
