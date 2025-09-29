@@ -1,0 +1,25 @@
+{
+    "name": "Alexis Shea",
+    "age": 18,
+    "address": {
+        "street": "Davies Wells",
+        "city": "Rayport",
+        "state": "Utah",
+        "zip": "73220"
+    },
+    "contact": {
+        "phone": "890.637.4080x9437",
+        "servicePhone": "800455280"
+    },
+    "birthday": "2007-28-06",
+    "ip": "74.30.114.43",
+    "foo": "bar",
+    "profile": {
+        "about": "Prevent kind like. Least anything strong eat others time think few. Boy happen what believe argue imagine chance.",
+        "bio": "Nothing leave ever fund manage. Book smile we body season.\nA future property. More same radio learn. Shoulder develop summer sign Republican anyone. Statement use wish the civil bag."
+    },
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Sara White",
+    "age": 111,
+    "address": {
+        "street": "Angela Cape",
+        "city": "Vickieport",
+        "state": "Virginia",
+        "zip": "68042"
+    },
+    "contact": {
+        "phone": "6866388491",
+        "servicePhone": "800382725"
+    },
+    "birthday": "1914-02-09",
+    "ip": "169.154.97.204",
+    "foo": "bar",
+    "profile": {
+        "about": "Race south attention town.\nGarden generation action who somebody. Current wall public almost.",
+        "bio": "Smile perhaps on identify. Interesting this article standard identify teach.\nIndividual attention family. Go bag fill consider. Gun nor allow professional."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}
