@@ -1,0 +1,25 @@
+{
+    "name": "Tyler Brown",
+    "age": 11,
+    "address": {
+        "street": "Elizabeth Crossroad",
+        "city": "West Laura",
+        "state": "Nebraska",
+        "zip": "91185"
+    },
+    "contact": {
+        "phone": "905-846-0595",
+        "servicePhone": "800129898"
+    },
+    "birthday": "2014-05-12",
+    "ip": "93.3.208.112",
+    "foo": "bar",
+    "profile": {
+        "about": "Site building particularly difficult attorney product water. Back say yeah ten.\nSend before customer through. Opportunity amount order front success.",
+        "bio": "Line either spend exist campaign beat.\nParticipant buy land bring. Story however be set although."
+    },
+    "currency": [
+        "HRK",
+        "Croatian kuna"
+    ]
+}

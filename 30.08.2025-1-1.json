@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Whitney",
+    "age": 72,
+    "address": {
+        "street": "Joseph Isle",
+        "city": "Brownmouth",
+        "state": "New Hampshire",
+        "zip": "59721"
+    },
+    "contact": {
+        "phone": "+1-264-334-7211x143",
+        "servicePhone": "800701603"
+    },
+    "birthday": "1953-02-10",
+    "ip": "22.177.245.83",
+    "foo": "bar",
+    "profile": {
+        "about": "Truth speak season save usually level wide realize. They similar among cover. Positive chance risk still.\nEven election remember nor. First player choose. Would social glass employee age.",
+        "bio": "Best TV just movie consider. View mean increase analysis edge attention care. Else fly probably music interest must. Expert order measure talk value Congress."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}

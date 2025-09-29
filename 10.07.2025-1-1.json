@@ -1,0 +1,25 @@
+{
+    "name": "Nicole Wang",
+    "age": 31,
+    "address": {
+        "street": "Danielle Freeway",
+        "city": "Chambersview",
+        "state": "Rhode Island",
+        "zip": "17404"
+    },
+    "contact": {
+        "phone": "716-931-7390",
+        "servicePhone": "800530768"
+    },
+    "birthday": "1994-26-03",
+    "ip": "124.57.33.34",
+    "foo": "bar",
+    "profile": {
+        "about": "Find first simply listen heart who. Public among experience cost billion. Above food color man good.\nContain often nation full study thousand. Gun month field serve century book arm.",
+        "bio": "Also ever discover into. Defense yeah from every. Sort that institution.\nFinal man develop seek. Sea prove her act ask program stock. Say realize among general not future sort between."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}
