@@ -1,0 +1,25 @@
+{
+    "name": "Sylvia Myers",
+    "age": 28,
+    "address": {
+        "street": "Anthony Springs",
+        "city": "South Kevinmouth",
+        "state": "Vermont",
+        "zip": "47165"
+    },
+    "contact": {
+        "phone": "732.608.9524",
+        "servicePhone": "800169157"
+    },
+    "birthday": "1997-30-11",
+    "ip": "142.232.97.242",
+    "foo": "bar",
+    "profile": {
+        "about": "Clearly cause prevent run series it actually. Mrs little where approach toward camera.\nProtect once expect our. Value style game. Heavy property subject identify nearly show.",
+        "bio": "Fish cell in lawyer. Ground character item put business. Employee table much these tell.\nDespite institution long option bad soon.\nWhether system entire western. Though total at."
+    },
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}

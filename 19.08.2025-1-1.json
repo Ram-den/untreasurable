@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Jones",
+    "age": 111,
+    "address": {
+        "street": "Ortiz Run",
+        "city": "New Joel",
+        "state": "New Jersey",
+        "zip": "33004"
+    },
+    "contact": {
+        "phone": "768-263-7753x948",
+        "servicePhone": "800922124"
+    },
+    "birthday": "1914-07-12",
+    "ip": "114.216.161.208",
+    "foo": "bar",
+    "profile": {
+        "about": "Law rate whatever analysis. Somebody present open opportunity knowledge only. Individual part against stop base.\nRequire cost method travel. Suggest decade move choice matter matter floor standard.",
+        "bio": "Home maintain or ten. Sister off effect appear. Almost outside different rather break side mission.\nLater arrive sense fund baby model. Audience seem agreement task fast entire how collection."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}
