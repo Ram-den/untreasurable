@@ -1,0 +1,25 @@
+{
+    "name": "Lorraine Davenport",
+    "age": 46,
+    "address": {
+        "street": "Julia Brook",
+        "city": "Staceytown",
+        "state": "South Carolina",
+        "zip": "30205"
+    },
+    "contact": {
+        "phone": "622.831.3467",
+        "servicePhone": "800529101"
+    },
+    "birthday": "1979-27-09",
+    "ip": "187.249.241.167",
+    "foo": "bar",
+    "profile": {
+        "about": "Beyond together majority charge dinner determine option report. Senior particular television same leg raise.",
+        "bio": "Win teacher area. Himself standard many same. Fact several present industry.\nPiece positive sing win. Attention state play beat project born instead."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
