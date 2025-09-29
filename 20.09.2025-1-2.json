@@ -1,0 +1,25 @@
+{
+    "name": "Jason Cameron",
+    "age": 99,
+    "address": {
+        "street": "Moreno Glens",
+        "city": "Sheachester",
+        "state": "Wyoming",
+        "zip": "37189"
+    },
+    "contact": {
+        "phone": "(313)260-5697",
+        "servicePhone": "800298363"
+    },
+    "birthday": "1926-19-03",
+    "ip": "101.189.158.55",
+    "foo": "bar",
+    "profile": {
+        "about": "Reason all direction same view. Instead crime worry price third officer play. Could call treat happy.",
+        "bio": "System board he green. Seven record these action than prevent. Play together contain partner night term task along.\nHappy hotel north energy third."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}

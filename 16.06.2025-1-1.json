@@ -1,0 +1,25 @@
+{
+    "name": "Regina Diaz",
+    "age": 10,
+    "address": {
+        "street": "Brandon Ridge",
+        "city": "West Ashley",
+        "state": "Rhode Island",
+        "zip": "31878"
+    },
+    "contact": {
+        "phone": "+1-201-641-4670x0709",
+        "servicePhone": "800589390"
+    },
+    "birthday": "2015-15-08",
+    "ip": "48.111.95.247",
+    "foo": "bar",
+    "profile": {
+        "about": "Station parent truth majority station experience ball small. Sport painting continue natural magazine. Common per administration wonder respond manager between.",
+        "bio": "Particular both face less finish will. Simple up opportunity he enjoy act.\nAnimal building small spring suffer food. Pull across week poor member authority."
+    },
+    "currency": [
+        "MZN",
+        "Mozambican metical"
+    ]
+}
