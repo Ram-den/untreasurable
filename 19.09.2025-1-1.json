@@ -1,0 +1,25 @@
+{
+    "name": "Alexis Holmes",
+    "age": 95,
+    "address": {
+        "street": "Jimmy Shores",
+        "city": "Karenchester",
+        "state": "Massachusetts",
+        "zip": "38713"
+    },
+    "contact": {
+        "phone": "+1-933-724-3821x560",
+        "servicePhone": "800609442"
+    },
+    "birthday": "1930-21-04",
+    "ip": "10.246.52.179",
+    "foo": "bar",
+    "profile": {
+        "about": "Here crime authority region you explain game. Whom prepare full night knowledge serious ready no. Sure design claim behavior guess.",
+        "bio": "Us can clear industry open. Name scientist choose our. Work run suddenly cell another vote time."
+    },
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}
